@@ -10259,16 +10259,11 @@ body {
 
   }
 
-  .masthead{
-    display: block;
-    height: 100vh;
-    width: 150%;
-    margin-left: -6.5rem;
-    margin-top: -3rem;
-    overflow-x: hidden;
+  .mujeresvoladoras-featured{
+    margin-top: -4rem;
+    width: 100vw;
 
 
-  }
 
   .cherrymobile{
     margin-top: -4rem;
