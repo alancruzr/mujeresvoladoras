@@ -10265,6 +10265,7 @@ body {
     width: 150%;
     margin-left: -6.5rem;
     margin-top: -3rem;
+    overflow-x: hidden;
 
 
   }
