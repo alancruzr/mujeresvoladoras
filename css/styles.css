@@ -10262,7 +10262,7 @@ body {
 .product-shopnow{
   display: flex;
   justify-content: space-around;
-  margin-top: -4rem;
+  margin-top: -5rem;
 
 }
 
@@ -10276,7 +10276,8 @@ body {
     text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     margin-top: -5rem;
 
   }
@@ -10293,8 +10294,8 @@ body {
     .masthead{
       width: 100vw;
       height: 100vh;
-      margin-top: -9rem;
-      margin-bottom: -10rem;
+      margin-bottom: -12rem;
+      padding-top: 3rem;
 
     }
 
