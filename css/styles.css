@@ -10262,6 +10262,7 @@ body {
 .product-shopnow{
   display: flex;
   justify-content: space-around;
+  margin-top: -4rem;
 
 }
 
@@ -10281,9 +10282,23 @@ body {
   }
 
   .mujeresvoladoras-featured{
-    margin-top: -6.5rem;
-    width: 100vw;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 100%;
     height: auto;
+
+    }
+
+    .masthead{
+      width: 100vw;
+      height: 100vh;
+      margin-top: -9rem;
+      margin-bottom: -10rem;
+
+    }
+
+
 
 
 
@@ -10314,12 +10329,12 @@ body {
 
 @media (min-width: 992px) {
   .projects-section .featured-text {
-    padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    padding: 0 0 0 1rem;
+    border-left: 0.5rem solid #c3781c;
   }
 }
 .projects-section .project-text {
-  padding: 3rem;
+  padding: 1rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
@@ -10327,7 +10342,7 @@ body {
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #c3781c;
     border-width: 0.25rem;
     width: 30%;
   }
