@@ -10280,6 +10280,8 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: -5rem;
+    overflow-x: hidden;
+
 
   }
 
@@ -10288,15 +10290,16 @@ body {
     margin-left: auto;
     margin-right:auto;
     width: 100%;
-    height: auto;
+    margin-top: -7rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+
 
     }
 
     .masthead{
-      width: 100vw;
-      height: 100vh;
-      margin-bottom: -12rem;
-      padding-top: 3rem;
+      margin-bottom: -15rem;
+
 
     }
 
